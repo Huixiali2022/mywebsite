@@ -1,0 +1,50 @@
+
+a {
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    background-color: darkblue;
+    border: 5px;
+    border-radius: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 200px auto 100px auto;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    color: darkblue;
+    text-align: center;
+}
+
+h4 {
+    color: blue;
+    text-align: center;
+}
+p {
+    font-size: larger;
+}
+
+
+body{
+    padding: 20px;
+}
+
+.section-odd{
+    background-color: bisque;
+    padding: 30px;
+}
+
+.section-even{
+    background-color:cornsilk;
+    padding: 30px;
+}

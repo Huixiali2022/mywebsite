@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    margin: 200px auto 100px auto;
+    color: black;
+    text-align: center;
+    
+    display: block;
+
+    left: 50%;
+
+}
+
+a {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+
+
+#resumes,
+#hobbies,
+#contact {
+    padding: 10px;
+    margin: 20px -50px;
+    text-align: center;
+    background-color: darkblue;
+    border: 5px;
+    border-radius: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: bolder;
+    display: block;
+    position: relative;
+    left: 48%;
+    height: 20px;
+    width: 120px;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+  .row{
+    padding: 20px;
+  }
+
+.photo{
+    width: 25%;
+    border-radius: 50%;
+}
+
+img{
+    margin-top: 8%;
+margin-bottom: 2%;
+}
