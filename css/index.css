@@ -4,7 +4,7 @@ h1 {
     margin: 200px auto 100px auto;
     color: black;
     text-align: center;
-    
+
     display: block;
 
     left: 50%;
@@ -53,4 +53,8 @@ a {
 img{
     margin-top: 8%;
 margin-bottom: 2%;
+}
+
+.btn {
+  margin: 2%
 }
