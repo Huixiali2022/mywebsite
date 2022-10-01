@@ -8,7 +8,7 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     font-weight: bolder;
-    
+
 }
 img {
 margin-top: 30px;
@@ -22,6 +22,7 @@ h1 {
 
 h3 {
     color: darkblue;
+    background-color: #C3E0E5;
 }
 
 h4 {
